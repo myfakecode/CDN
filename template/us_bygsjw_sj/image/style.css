@@ -216,7 +216,7 @@ a.load_more_from{ position: absolute; top: .06rem; right: 0; height: .2rem; line
 .load_more_img3{ width: 3.6rem; margin: 0 .015rem;}
 .load_more_img3 .img_center{ width: 1.14rem; height: 1.14rem; margin: 0 .05rem .05rem 0;}
 .load_more_b{ margin: .09rem 0 .01rem;}
-.load_more_b span{ width: 1.17rem; height: .18rem; display: block; border-right: .01rem solid #dedede; line-height: .18rem; font-size: .12rem; color: #888; text-align: center;}
+.load_more_b span{ width: 1.76rem; height: .18rem; display: block; border-right: .01rem solid #dedede; line-height: .18rem; font-size: .12rem; color: #888; text-align: center;}
 .load_more_b .lanjiazai{ display: inline-block !important; width: .17rem; height: .17rem; margin-right: .02rem; vertical-align: top;}
 .load_more_b .y{ border: 0;}
 .load_more_button a{ display: block; width: 100%; margin: 1px 0; padding: .1rem 0; background: #fff; color: #06c; text-align: center; font-size: .14rem;}
