@@ -3,7 +3,7 @@
 }
 
 body {
-    background: #000000;
+    background: #FFF;
 }
 
 body,
@@ -72,7 +72,7 @@ i {
 }
 
 a {
-    color: #ff6a6a;
+    color: #444;
     text-decoration: none;
 }
 
