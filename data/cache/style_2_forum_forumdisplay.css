@@ -817,7 +817,7 @@
 
 .xst {
     font-family: Microsoft YaHei, Tahoma, Helvetica, 'SimSun', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .xst i {
@@ -1840,7 +1840,7 @@ body {
     padding: 14px 10px 0;
     border-width: 1px 1px 0;
     background: #fff;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .ttp .a a,
@@ -1891,7 +1891,7 @@ body {
 
 .tl .tf {
     padding: 0;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 20px;
 }
 
@@ -1903,7 +1903,7 @@ body {
 .tl .by {
     width: 120px;
     text-align: center;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 20px;
 }
 
@@ -1951,7 +1951,7 @@ body {
 .tl .list_author,
 .tl .list_author a {
     color: #888;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 #separatorline {

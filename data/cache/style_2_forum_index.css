@@ -367,7 +367,7 @@ body {
     padding: 0 10px;
     position: relative;
     background: #ffd;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .an_icon {
@@ -696,7 +696,7 @@ body {
     text-align: center;
     background: rgba(255, 255, 255, 0.88);
     color: #5A5A5A;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     overflow: hidden;
     white-space: nowrap;
@@ -750,7 +750,7 @@ body {
     width: 250px;
     height: 40px;
     line-height: 20px;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 400;
     overflow: hidden;
 }
@@ -760,7 +760,7 @@ body {
     height: 20px;
     line-height: 20px;
     overflow: hidden;
-    font-size: 12px;
+    font-size: 14px;
     color: #888;
 }
 
@@ -899,8 +899,8 @@ body {
     color: #999;
     max-width: 100px;
     height: 20px;
-    line-height: 26px;
-    font-size: 12px;
+    line-height: 20px;
+    font-size: 16px;
     display: inline-block;
     white-space: nowrap;
     overflow: hidden;

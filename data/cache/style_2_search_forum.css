@@ -87,7 +87,7 @@
 
 .xst {
     font-family: Microsoft YaHei, Tahoma, Helvetica, 'SimSun', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .xst i {
@@ -320,7 +320,7 @@ tr:hover .fromg {
 }
 
 .tl td em {
-    font-size: 11px;
+    font-size: 12px;
     font-family: Arial, Pmingliu, sans-serif;
     -webkit-text-size-adjust: none;
 }
@@ -607,7 +607,7 @@ body {
 #nv_search #scform_tb a {
     height: 30px;
     line-height: 30px;
-    font-size: 14px;
+    font-size: 16px;
     color: #888;
 }
 
@@ -626,7 +626,7 @@ body {
 
 #nv_search #scform_srchtxt,
 #nv_search #scform_submit {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 #nv_search .td_srchtxt {

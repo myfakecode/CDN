@@ -11,7 +11,7 @@ input,
 button,
 select,
 textarea {
-    font: 13px/1.5 Microsoft YaHei, Tahoma, Helvetica, 'SimSun', sans-serif;
+    font: 16px/1.5 Microsoft YaHei, Tahoma, Helvetica, 'SimSun', sans-serif;
     color: #f90000;
 }
 
@@ -198,11 +198,11 @@ hr.m0 {
 }
 
 .xs1 {
-    font-size: 12px !important;
+    font-size: 16px !important;
 }
 
 .xs2 {
-    font-size: 14px !important;
+    font-size: 16px !important;
 }
 
 .xs3 {
@@ -230,7 +230,7 @@ hr.m0 {
 .xi2,
 .xi2 a,
 .xi3 a {
-    color: #444;
+    color: #b30000;
 }
 
 .xw0 {
@@ -2589,7 +2589,7 @@ ol.xl li {
     line-height: 28px;
     white-space: nowrap;
     word-wrap: normal;
-    font-size: 14px;
+    font-size: 16px;
     text-overflow: ellipsis;
     overflow: hidden;
 }
@@ -4189,7 +4189,7 @@ ol.xl li {
 .umh h2 em,
 .umh h3 em {
     margin-left: 8px;
-    font-size: 12px;
+    font-size: 16px;
     color: #999;
     font-weight: 400;
 }
@@ -4213,7 +4213,7 @@ ol.xl li {
 
 .umn h3 {
     background: #FFF url(https://cdn.jsdelivr.net/gh/myfakecode/CDN@master/static/image/common/arrow.gif) no-repeat right -35px;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .umn .umh_cb {
@@ -4753,7 +4753,7 @@ a.progressCancel:hover {
 .title {
     padding: 0 10px;
     height: 32px;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 32px;
     overflow: hidden;
@@ -6031,7 +6031,7 @@ select {
 .sllt {
     min-width: 0;
     border-color: #eaeaea;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .p_pop a {
@@ -6180,7 +6180,7 @@ select {
     border-radius: 6px;
     text-align: center;
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 a.newpost_img:hover,
@@ -6334,7 +6334,7 @@ a.reply_img:hover {
 
 #toptb a {
     margin: 0 2px;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 #toptb img.qq_bind {
@@ -6605,7 +6605,7 @@ a.reply_img:hover {
     border: 1px solid #eee;
     border-radius: 2px;
     background: #fafafa;
-    font-size: 14px;
+    font-size: 16px;
     white-space: normal;
 }
 
@@ -6680,7 +6680,7 @@ a.reply_img:hover {
     padding: 0;
     border-right: 1px solid #f2f2f2;
     display: block;
-    font-size: 13px;
+    font-size: 16px;
     text-align: center;
 }
 

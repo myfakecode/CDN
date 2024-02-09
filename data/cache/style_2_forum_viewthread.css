@@ -3338,7 +3338,7 @@ dl.nums {}
     overflow: hidden;
     padding: 1em 0;
     width: 100%;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .tatt,
@@ -4387,7 +4387,7 @@ td.pls {
     padding: 5px 10px;
     border-bottom: 1px solid #f1f1f1;
     line-height: 26px;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .cgtl th {
