@@ -550,7 +550,7 @@ body {
 
 .img1_y_b {
     line-height: 22px;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .img1_laizi {
@@ -561,7 +561,7 @@ body {
     color: #bc0104;
     border: 1px solid #bc0104;
     border-radius: 2px;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .img1_laizi:hover {
@@ -725,6 +725,6 @@ body {
 .guide_list_hot .dl_yb {
     float: right;
     width: 170px;
-    font-size: 12px;
+    font-size: 16px;
     color: #888;
 }
