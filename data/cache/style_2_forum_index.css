@@ -922,17 +922,17 @@ body {
     padding-left: 20px;
     display: block;
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
     text-align: center;
     border-radius: 6px;
 }
 
 #newpost .newpost {
-    background: #F26C4F url(https://cdn.jsdelivr.net/gh/myfakecode/CDN@master/template/us_bygsjw/image/newpost.png) no-repeat 100px center;
+    background: #F26C4F url(https://cdn.jsdelivr.net/gh/myfakecode/CDN@master/template/us_bygsjw/image/newpost.png) no-repeat 95px center;
 }
 
 #newpost .sign {
-    background: #bc0104 url(https://cdn.jsdelivr.net/gh/myfakecode/CDN@master/template/us_bygsjw/image/sign.png) no-repeat 100px center;
+    background: #bc0104 url(https://cdn.jsdelivr.net/gh/myfakecode/CDN@master/template/us_bygsjw/image/sign.png) no-repeat 95px center;
 }
 
 .byg_huodong a {
