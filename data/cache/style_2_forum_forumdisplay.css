@@ -258,7 +258,7 @@
 }
 
 #newspecial_menu {
-    width: 90px;
+    width: 95px;
 }
 
 #newspecial_menu li,
@@ -1950,7 +1950,7 @@ body {
 
 .tl .list_author,
 .tl .list_author a {
-    color: #888;
+    color: #aa1212;
     font-size: 14px;
 }
 
