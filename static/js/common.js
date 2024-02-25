@@ -66,7 +66,7 @@ function browserVersion(types) {
 		}else {
 			var ver = 0;
 		}
-		eval('BROWSER.' + i + '= ver');
+		BROWSER[i] = ver;
 	}
 	BROWSER.other = other;
 }
